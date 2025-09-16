@@ -120,6 +120,3 @@
 
 * Good → Missing → Absent → Broken → Pure stdlib → Custom → Vendor.
 
----
-
-👉 Do you want me to prepare **sample repos/snippets for each case** so you can actually run the handler against them, or just keep this as a theoretical checklist?
