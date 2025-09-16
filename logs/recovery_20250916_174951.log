@@ -1,0 +1,53 @@
+[INFO] Syft found: Application:   syft
+Version:       1.32.0
+BuildDate:     2025-08-26T21:47:45Z
+GitCommit:     2d8e337d3469712c7d92770792f0117ad82c4ad3
+GitDescription: v1.32.0
+Platform:      windows/amd64
+GoVersion:     go1.24.6
+Compiler:      gc
+SchemaVersion: 16.0.39
+[INFO] Downloading Go dependencies...
+[INFO] Building and running ORT Recovery...
+2025/09/16 17:49:53 [INFO] Keeping temp clone directories in: C:\Users\prash\AppData\Local\Temp\ort_repos_1897372364
+2025/09/16 17:49:57 [INFO] Repo cloned to C:\Users\prash\AppData\Local\Temp\ort_repos_1897372364\cobra_1758025193
+2025/09/16 17:49:57 [INFO] Processing project: C:\Users\prash\AppData\Local\Temp\ort_repos_1897372364\cobra_1758025193
+2025/09/16 17:49:57 [INFO] Running Syft in C:\Users\prash\AppData\Local\Temp\ort_repos_1897372364\cobra_1758025193
+2025/09/16 17:49:57 [INFO] Running: syft [scan C:\Users\prash\AppData\Local\Temp\ort_repos_1897372364\cobra_1758025193 -o json=C:\Users\prash\AppData\Local\Temp\ort_repos_1897372364\cobra_1758025193\syft.json]
+2025/09/16 17:49:59 [INFO] Checking handler: Java
+2025/09/16 17:49:59 [INFO] Handler Java: not detected in project
+2025/09/16 17:49:59 [INFO] Checking handler: Go
+2025/09/16 17:49:59 [INFO] Handler Go: detected. Scanning...
+2025/09/16 17:49:59 [INFO] Handler Go: no dependencies found.
+2025/09/16 17:49:59 [INFO] Checking handler: Python
+2025/09/16 17:49:59 [INFO] Handler Python: not detected in project
+2025/09/16 17:49:59 [INFO] Checking handler: Node.js
+2025/09/16 17:49:59 [INFO] Handler Node.js: not detected in project
+2025/09/16 17:49:59 [INFO] Checking handler: Rust
+2025/09/16 17:49:59 [INFO] Handler Rust: not detected in project
+2025/09/16 17:49:59 [INFO] Checking handler: .NET
+2025/09/16 17:49:59 [INFO] Handler .NET: not detected in project
+2025/09/16 17:49:59 [INFO] Checking handler: Ruby
+2025/09/16 17:49:59 [INFO] Handler Ruby: not detected in project
+2025/09/16 17:49:59 [INFO] Checking handler: PHP
+2025/09/16 17:49:59 [INFO] Handler PHP: not detected in project
+2025/09/16 17:49:59 [INFO] Checking handler: C++
+2025/09/16 17:49:59 [INFO] Handler C++: detected. Scanning...
+2025/09/16 17:49:59 [INFO] Handler C++: generating recovery file (deps: 1)...
+2025/09/16 17:49:59 [INFO] Checking handler: Swift
+2025/09/16 17:49:59 [INFO] Handler Swift: not detected in project
+2025/09/16 17:49:59 [INFO] Cleaning up C:\Users\prash\AppData\Local\Temp\ort_repos_1897372364\cobra_1758025193\syft.json after processing
+----- ORT Recovery Summary -----
+- Java: skipped
+- Go: processed (added=0)
+- Python: skipped
+- Node.js: skipped
+- Rust: skipped
+- .NET: skipped
+- Ruby: skipped
+- PHP: skipped
+- C++: processed (added=0)
+- Swift: skipped
+Total elapsed time: 5.6423362s
+2025/09/16 17:49:59 [INFO] Total elapsed time: 5.6423362s
+[INFO] ORT Recovery completed successfully.

@@ -1,0 +1,1407 @@
+[2025-09-14 23:47:44] [Init] Registered handler: Java
+[2025-09-14 23:47:44] [Init] Registered handler: Go
+[2025-09-14 23:47:44] [Init] Registered handler: Python
+[2025-09-14 23:47:44] [Init] Registered handler: Node.js
+[2025-09-14 23:47:44] [Init] Registered handler: Rust
+[2025-09-14 23:47:44] [Init] Registered handler: .NET
+[2025-09-14 23:47:44] [Init] Registered handler: Ruby
+[2025-09-14 23:47:44] [Init] Registered handler: PHP
+[2025-09-14 23:47:44] [Init] Registered handler: C++
+[2025-09-14 23:47:44] [Init] Registered handler: Swift
+[2025-09-14 23:47:51] [Init] Registered handler: Java
+[2025-09-14 23:47:51] [Init] Registered handler: Go
+[2025-09-14 23:47:51] [Init] Registered handler: Python
+[2025-09-14 23:47:51] [Init] Registered handler: Node.js
+[2025-09-14 23:47:51] [Init] Registered handler: Rust
+[2025-09-14 23:47:51] [Init] Registered handler: .NET
+[2025-09-14 23:47:51] [Init] Registered handler: Ruby
+[2025-09-14 23:47:51] [Init] Registered handler: PHP
+[2025-09-14 23:47:51] [Init] Registered handler: C++
+[2025-09-14 23:47:51] [Init] Registered handler: Swift
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-actuator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-cache has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-data-jpa has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-web has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-validation has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-thymeleaf has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-test has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency com.h2database:h2 has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency com.mysql:mysql-connector-j has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency org.postgresql:postgresql has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency javax.cache:cache-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency com.github.ben-manes.caffeine:caffeine has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-devtools has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-testcontainers has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-docker-compose has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency org.testcontainers:junit-jupiter has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency org.testcontainers:mysql has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency jakarta.xml.bind:jakarta.xml.bind-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:JoinTable has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency org.junit.jupiter:junit-jupiter-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency jakarta.validation:constraints has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:JoinColumn has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency jakarta.validation:Valid has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency java.util:stream has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency org.testcontainers:containers has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency jakarta.validation:ConstraintViolation has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency jakarta.validation:Validator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency java.io:Serializable has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Column has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:OneToMany has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:OrderBy has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency org.apache.commons:commons-lang3 has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency org.mockito:mockito-core has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency java.util:TreeSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:GeneratedValue has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:GenerationType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency java.util:ArrayList has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency java.util:Locale has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:ManyToMany has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency org.testcontainers:DockerClientFactory has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency java.util:Properties has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:FetchType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency org.springframework:spring-web has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency jakarta.annotation:Nonnull has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency java.text:ParseException has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency java.util:Comparator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency jakarta.xml:bind has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency java.util:Optional has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency java.util:Collection has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency java.util:Set has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency java.util:Map has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency org.testcontainers:utility has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency java.nio:file has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency java.util:regex has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency org.assertj:core has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:MappedSuperclass has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Table has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency java.time:LocalDate has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency java.util:HashSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency java.util:Arrays has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency java.util:LinkedList has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency java.util:HashMap has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:CascadeType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency javax.cache:configuration has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency org.testcontainers:junit has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency java.io:IOException has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency org.springframework:spring-context has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Id has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency java.util:List has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Entity has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency java.util:LinkedHashSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-14 23:47:51] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:ManyToOne has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:34] [Init] Registered handler: Java
+[2025-09-15 10:17:34] [Init] Registered handler: Go
+[2025-09-15 10:17:34] [Init] Registered handler: Python
+[2025-09-15 10:17:34] [Init] Registered handler: Node.js
+[2025-09-15 10:17:34] [Init] Registered handler: Rust
+[2025-09-15 10:17:34] [Init] Registered handler: .NET
+[2025-09-15 10:17:34] [Init] Registered handler: Ruby
+[2025-09-15 10:17:34] [Init] Registered handler: PHP
+[2025-09-15 10:17:34] [Init] Registered handler: C++
+[2025-09-15 10:17:34] [Init] Registered handler: Swift
+[2025-09-15 10:17:41] [Init] Registered handler: Java
+[2025-09-15 10:17:41] [Init] Registered handler: Go
+[2025-09-15 10:17:41] [Init] Registered handler: Python
+[2025-09-15 10:17:41] [Init] Registered handler: Node.js
+[2025-09-15 10:17:41] [Init] Registered handler: Rust
+[2025-09-15 10:17:41] [Init] Registered handler: .NET
+[2025-09-15 10:17:41] [Init] Registered handler: Ruby
+[2025-09-15 10:17:41] [Init] Registered handler: PHP
+[2025-09-15 10:17:41] [Init] Registered handler: C++
+[2025-09-15 10:17:41] [Init] Registered handler: Swift
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-actuator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-cache has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-data-jpa has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-web has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-validation has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-thymeleaf has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-test has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency com.h2database:h2 has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency com.mysql:mysql-connector-j has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency org.postgresql:postgresql has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency javax.cache:cache-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency com.github.ben-manes.caffeine:caffeine has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-devtools has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-testcontainers has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-docker-compose has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency org.testcontainers:junit-jupiter has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency org.testcontainers:mysql has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency jakarta.xml.bind:jakarta.xml.bind-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency org.springframework:spring-context has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency jakarta.validation:constraints has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Table has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency java.util:Collection has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency java.util:Locale has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:JoinTable has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency jakarta.xml:bind has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Column has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency java.util:ArrayList has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:JoinColumn has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency java.text:ParseException has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency java.util:HashSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency org.junit.jupiter:junit-jupiter-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency java.util:LinkedList has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency jakarta.validation:Validator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency java.io:Serializable has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Id has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency jakarta.annotation:Nonnull has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency java.util:Arrays has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency org.testcontainers:DockerClientFactory has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency java.nio:file has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency java.util:TreeSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency java.util:regex has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency java.util:List has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:CascadeType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:OneToMany has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency java.util:Set has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency jakarta.validation:ConstraintViolation has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency org.mockito:mockito-core has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency java.util:Properties has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:MappedSuperclass has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:ManyToOne has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency javax.cache:configuration has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency org.apache.commons:commons-lang3 has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency java.util:HashMap has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency java.io:IOException has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency org.assertj:core has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:OrderBy has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency org.springframework:spring-web has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency java.util:stream has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency org.testcontainers:containers has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency org.testcontainers:junit has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency org.testcontainers:utility has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:GenerationType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Entity has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency java.util:Optional has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency java.time:LocalDate has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency java.util:LinkedHashSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency java.util:Comparator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:ManyToMany has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:GeneratedValue has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:FetchType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency jakarta.validation:Valid has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:17:41] [JavaHandler] WARNING: Gradle dependency java.util:Map has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:48] [Init] Registered handler: Java
+[2025-09-15 10:23:48] [Init] Registered handler: Go
+[2025-09-15 10:23:49] [Init] Registered handler: Python
+[2025-09-15 10:23:49] [Init] Registered handler: Node.js
+[2025-09-15 10:23:49] [Init] Registered handler: Rust
+[2025-09-15 10:23:49] [Init] Registered handler: .NET
+[2025-09-15 10:23:49] [Init] Registered handler: Ruby
+[2025-09-15 10:23:49] [Init] Registered handler: PHP
+[2025-09-15 10:23:49] [Init] Registered handler: C++
+[2025-09-15 10:23:49] [Init] Registered handler: Swift
+[2025-09-15 10:23:57] [Init] Registered handler: Java
+[2025-09-15 10:23:57] [Init] Registered handler: Go
+[2025-09-15 10:23:57] [Init] Registered handler: Python
+[2025-09-15 10:23:57] [Init] Registered handler: Node.js
+[2025-09-15 10:23:57] [Init] Registered handler: Rust
+[2025-09-15 10:23:57] [Init] Registered handler: .NET
+[2025-09-15 10:23:57] [Init] Registered handler: Ruby
+[2025-09-15 10:23:57] [Init] Registered handler: PHP
+[2025-09-15 10:23:57] [Init] Registered handler: C++
+[2025-09-15 10:23:57] [Init] Registered handler: Swift
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-actuator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-cache has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-data-jpa has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-web has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-validation has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-thymeleaf has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-test has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency com.h2database:h2 has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency com.mysql:mysql-connector-j has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency org.postgresql:postgresql has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency javax.cache:cache-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency com.github.ben-manes.caffeine:caffeine has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-devtools has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-testcontainers has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-docker-compose has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency org.testcontainers:junit-jupiter has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency org.testcontainers:mysql has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency jakarta.xml.bind:jakarta.xml.bind-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Id has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:OneToMany has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:OrderBy has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency java.util:Optional has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency javax.cache:configuration has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency org.testcontainers:DockerClientFactory has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:GenerationType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:FetchType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Table has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency org.springframework:spring-web has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency jakarta.validation:Valid has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency java.time:LocalDate has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency org.testcontainers:containers has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency java.util:Arrays has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency jakarta.validation:constraints has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency java.util:ArrayList has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency java.util:List has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency java.util:Collection has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency java.util:Locale has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency java.util:Map has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency java.util:HashSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:ManyToMany has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Column has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency java.util:Set has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency java.util:LinkedList has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency org.apache.commons:commons-lang3 has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency java.io:IOException has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency java.nio:file has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency java.util:TreeSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency java.util:regex has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:GeneratedValue has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:MappedSuperclass has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:JoinColumn has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:JoinTable has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency org.junit.jupiter:junit-jupiter-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency org.testcontainers:junit has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency jakarta.validation:Validator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency org.mockito:mockito-core has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency org.springframework:spring-context has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:CascadeType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency jakarta.annotation:Nonnull has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency java.util:stream has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency jakarta.xml:bind has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency org.testcontainers:utility has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency java.util:HashMap has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency java.util:Comparator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency jakarta.validation:ConstraintViolation has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Entity has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:ManyToOne has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency java.text:ParseException has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency java.util:Properties has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency org.assertj:core has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency java.util:LinkedHashSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:23:57] [JavaHandler] WARNING: Gradle dependency java.io:Serializable has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:23] [Init] Registered handler: Java
+[2025-09-15 10:29:23] [Init] Registered handler: Go
+[2025-09-15 10:29:23] [Init] Registered handler: Python
+[2025-09-15 10:29:23] [Init] Registered handler: Node.js
+[2025-09-15 10:29:23] [Init] Registered handler: Rust
+[2025-09-15 10:29:23] [Init] Registered handler: .NET
+[2025-09-15 10:29:23] [Init] Registered handler: Ruby
+[2025-09-15 10:29:23] [Init] Registered handler: PHP
+[2025-09-15 10:29:23] [Init] Registered handler: C++
+[2025-09-15 10:29:23] [Init] Registered handler: Swift
+[2025-09-15 10:29:31] [Init] Registered handler: Java
+[2025-09-15 10:29:31] [Init] Registered handler: Go
+[2025-09-15 10:29:31] [Init] Registered handler: Python
+[2025-09-15 10:29:31] [Init] Registered handler: Node.js
+[2025-09-15 10:29:31] [Init] Registered handler: Rust
+[2025-09-15 10:29:31] [Init] Registered handler: .NET
+[2025-09-15 10:29:31] [Init] Registered handler: Ruby
+[2025-09-15 10:29:31] [Init] Registered handler: PHP
+[2025-09-15 10:29:31] [Init] Registered handler: C++
+[2025-09-15 10:29:31] [Init] Registered handler: Swift
+[2025-09-15 10:29:37] [Init] Registered handler: Java
+[2025-09-15 10:29:37] [Init] Registered handler: Go
+[2025-09-15 10:29:37] [Init] Registered handler: Python
+[2025-09-15 10:29:37] [Init] Registered handler: Node.js
+[2025-09-15 10:29:37] [Init] Registered handler: Rust
+[2025-09-15 10:29:37] [Init] Registered handler: .NET
+[2025-09-15 10:29:37] [Init] Registered handler: Ruby
+[2025-09-15 10:29:37] [Init] Registered handler: PHP
+[2025-09-15 10:29:37] [Init] Registered handler: C++
+[2025-09-15 10:29:37] [Init] Registered handler: Swift
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-actuator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-cache has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-data-jpa has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-web has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-validation has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-thymeleaf has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-test has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency com.h2database:h2 has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency com.mysql:mysql-connector-j has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency org.postgresql:postgresql has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency javax.cache:cache-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency com.github.ben-manes.caffeine:caffeine has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-devtools has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-testcontainers has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-docker-compose has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency org.testcontainers:junit-jupiter has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency org.testcontainers:mysql has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency jakarta.xml.bind:jakarta.xml.bind-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:JoinColumn has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency jakarta.validation:Valid has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency java.util:regex has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency org.springframework:spring-context has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Column has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Entity has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency java.util:Locale has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency java.util:Map has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency javax.cache:configuration has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency java.util:Comparator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency jakarta.xml:bind has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Id has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:JoinTable has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:ManyToMany has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency org.testcontainers:containers has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency org.apache.commons:commons-lang3 has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency org.testcontainers:DockerClientFactory has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency org.mockito:mockito-core has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency java.util:HashMap has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency java.util:Set has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:FetchType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:GenerationType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:OrderBy has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency org.springframework:spring-web has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency jakarta.annotation:Nonnull has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency java.util:Arrays has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency org.assertj:core has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:GeneratedValue has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:MappedSuperclass has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency java.util:ArrayList has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency java.util:Optional has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency java.util:LinkedHashSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency java.text:ParseException has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency java.util:stream has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency org.testcontainers:junit has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:CascadeType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Table has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency java.util:Collection has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency java.util:LinkedList has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency jakarta.validation:ConstraintViolation has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency java.io:IOException has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency java.util:TreeSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency java.util:List has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:ManyToOne has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency org.junit.jupiter:junit-jupiter-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency java.nio:file has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency java.time:LocalDate has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency java.io:Serializable has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency jakarta.validation:constraints has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:OneToMany has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency java.util:HashSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency org.testcontainers:utility has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency jakarta.validation:Validator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:29:37] [JavaHandler] WARNING: Gradle dependency java.util:Properties has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:33:52] [Init] Registered handler: Java
+[2025-09-15 10:33:52] [Init] Registered handler: Go
+[2025-09-15 10:33:52] [Init] Registered handler: Python
+[2025-09-15 10:33:52] [Init] Registered handler: Node.js
+[2025-09-15 10:33:52] [Init] Registered handler: Rust
+[2025-09-15 10:33:52] [Init] Registered handler: .NET
+[2025-09-15 10:33:52] [Init] Registered handler: Ruby
+[2025-09-15 10:33:52] [Init] Registered handler: PHP
+[2025-09-15 10:33:52] [Init] Registered handler: C++
+[2025-09-15 10:33:52] [Init] Registered handler: Swift
+[2025-09-15 10:38:55] [Init] Registered handler: Java
+[2025-09-15 10:38:55] [Init] Registered handler: Go
+[2025-09-15 10:38:55] [Init] Registered handler: Python
+[2025-09-15 10:38:55] [Init] Registered handler: Node.js
+[2025-09-15 10:38:55] [Init] Registered handler: Rust
+[2025-09-15 10:38:55] [Init] Registered handler: .NET
+[2025-09-15 10:38:55] [Init] Registered handler: Ruby
+[2025-09-15 10:38:55] [Init] Registered handler: PHP
+[2025-09-15 10:38:55] [Init] Registered handler: C++
+[2025-09-15 10:38:55] [Init] Registered handler: Swift
+[2025-09-15 10:39:02] [Init] Registered handler: Java
+[2025-09-15 10:39:02] [Init] Registered handler: Go
+[2025-09-15 10:39:02] [Init] Registered handler: Python
+[2025-09-15 10:39:02] [Init] Registered handler: Node.js
+[2025-09-15 10:39:02] [Init] Registered handler: Rust
+[2025-09-15 10:39:02] [Init] Registered handler: .NET
+[2025-09-15 10:39:02] [Init] Registered handler: Ruby
+[2025-09-15 10:39:02] [Init] Registered handler: PHP
+[2025-09-15 10:39:02] [Init] Registered handler: C++
+[2025-09-15 10:39:02] [Init] Registered handler: Swift
+[2025-09-15 10:39:08] [Init] Registered handler: Java
+[2025-09-15 10:39:08] [Init] Registered handler: Go
+[2025-09-15 10:39:08] [Init] Registered handler: Python
+[2025-09-15 10:39:08] [Init] Registered handler: Node.js
+[2025-09-15 10:39:08] [Init] Registered handler: Rust
+[2025-09-15 10:39:08] [Init] Registered handler: .NET
+[2025-09-15 10:39:08] [Init] Registered handler: Ruby
+[2025-09-15 10:39:08] [Init] Registered handler: PHP
+[2025-09-15 10:39:08] [Init] Registered handler: C++
+[2025-09-15 10:39:08] [Init] Registered handler: Swift
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-actuator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-cache has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-data-jpa has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-web has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-validation has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-thymeleaf has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-test has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency com.h2database:h2 has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency com.mysql:mysql-connector-j has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency org.postgresql:postgresql has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency javax.cache:cache-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency com.github.ben-manes.caffeine:caffeine has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-devtools has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-testcontainers has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-docker-compose has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency org.testcontainers:junit-jupiter has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency org.testcontainers:mysql has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency jakarta.xml.bind:jakarta.xml.bind-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Table has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency org.testcontainers:DockerClientFactory has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency java.nio:file has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency java.util:TreeSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:MappedSuperclass has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency java.util:Optional has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency java.util:Locale has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency org.junit.jupiter:junit-jupiter-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Column has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency jakarta.annotation:Nonnull has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency java.text:ParseException has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency java.util:Map has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:JoinTable has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency java.util:Arrays has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency jakarta.validation:ConstraintViolation has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency org.mockito:mockito-core has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency java.io:Serializable has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:GeneratedValue has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:CascadeType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency org.springframework:spring-web has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency jakarta.validation:Valid has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency java.util:LinkedHashSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency javax.cache:configuration has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency java.util:Properties has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Id has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:FetchType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:JoinColumn has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency org.testcontainers:containers has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency java.util:LinkedList has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency jakarta.validation:Validator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency java.io:IOException has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency jakarta.validation:constraints has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Entity has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:OrderBy has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency java.util:Collection has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency java.util:Set has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:ManyToMany has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency org.assertj:core has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:GenerationType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency java.util:List has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:ManyToOne has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency java.util:HashSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency org.testcontainers:junit has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency org.testcontainers:utility has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency java.util:regex has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency org.springframework:spring-context has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency java.util:ArrayList has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency java.time:LocalDate has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency java.util:Comparator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency java.util:stream has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency jakarta.xml:bind has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency org.apache.commons:commons-lang3 has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency java.util:HashMap has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 10:39:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:OneToMany has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:45:54] [Init] Registered handler: Java
+[2025-09-15 11:45:54] [Init] Registered handler: Go
+[2025-09-15 11:45:54] [Init] Registered handler: Python
+[2025-09-15 11:45:54] [Init] Registered handler: Node.js
+[2025-09-15 11:45:54] [Init] Registered handler: Rust
+[2025-09-15 11:45:54] [Init] Registered handler: .NET
+[2025-09-15 11:45:54] [Init] Registered handler: Ruby
+[2025-09-15 11:45:54] [Init] Registered handler: PHP
+[2025-09-15 11:45:54] [Init] Registered handler: C++
+[2025-09-15 11:45:54] [Init] Registered handler: Swift
+[2025-09-15 11:46:02] [Init] Registered handler: Java
+[2025-09-15 11:46:02] [Init] Registered handler: Go
+[2025-09-15 11:46:02] [Init] Registered handler: Python
+[2025-09-15 11:46:02] [Init] Registered handler: Node.js
+[2025-09-15 11:46:02] [Init] Registered handler: Rust
+[2025-09-15 11:46:02] [Init] Registered handler: .NET
+[2025-09-15 11:46:02] [Init] Registered handler: Ruby
+[2025-09-15 11:46:02] [Init] Registered handler: PHP
+[2025-09-15 11:46:02] [Init] Registered handler: C++
+[2025-09-15 11:46:02] [Init] Registered handler: Swift
+[2025-09-15 11:46:08] [Init] Registered handler: Java
+[2025-09-15 11:46:08] [Init] Registered handler: Go
+[2025-09-15 11:46:08] [Init] Registered handler: Python
+[2025-09-15 11:46:08] [Init] Registered handler: Node.js
+[2025-09-15 11:46:08] [Init] Registered handler: Rust
+[2025-09-15 11:46:08] [Init] Registered handler: .NET
+[2025-09-15 11:46:08] [Init] Registered handler: Ruby
+[2025-09-15 11:46:08] [Init] Registered handler: PHP
+[2025-09-15 11:46:08] [Init] Registered handler: C++
+[2025-09-15 11:46:08] [Init] Registered handler: Swift
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-actuator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-cache has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-data-jpa has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-web has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-validation has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-thymeleaf has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-test has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency com.h2database:h2 has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency com.mysql:mysql-connector-j has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency org.postgresql:postgresql has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency javax.cache:cache-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency com.github.ben-manes.caffeine:caffeine has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-devtools has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-testcontainers has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-docker-compose has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency org.testcontainers:junit-jupiter has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency org.testcontainers:mysql has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency jakarta.xml.bind:jakarta.xml.bind-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency org.apache.commons:commons-lang3 has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency org.mockito:mockito-core has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Id has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Table has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency javax.cache:configuration has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:ManyToMany has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency org.junit.jupiter:junit-jupiter-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency org.testcontainers:DockerClientFactory has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency jakarta.validation:Valid has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency java.util:Set has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency java.util:Map has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency org.testcontainers:containers has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency java.util:LinkedList has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency jakarta.validation:Validator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency java.util:HashMap has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency java.io:IOException has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency java.time:LocalDate has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:MappedSuperclass has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency java.util:ArrayList has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:OrderBy has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency org.testcontainers:utility has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency java.util:Properties has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency java.io:Serializable has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:GeneratedValue has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency java.util:List has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency java.util:LinkedHashSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency jakarta.xml:bind has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency org.testcontainers:junit has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency java.util:Arrays has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency org.assertj:core has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:GenerationType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:CascadeType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency java.util:HashSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency java.util:TreeSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency java.util:regex has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:JoinColumn has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency java.util:Optional has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency java.util:Collection has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency jakarta.validation:ConstraintViolation has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency java.nio:file has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:FetchType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Column has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency jakarta.validation:constraints has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Entity has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency org.springframework:spring-web has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency java.util:Comparator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency java.util:stream has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:JoinTable has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency org.springframework:spring-context has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:OneToMany has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency jakarta.annotation:Nonnull has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:ManyToOne has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency java.text:ParseException has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:46:08] [JavaHandler] WARNING: Gradle dependency java.util:Locale has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:26] [Init] Registered handler: Java
+[2025-09-15 11:54:26] [Init] Registered handler: Go
+[2025-09-15 11:54:26] [Init] Registered handler: Python
+[2025-09-15 11:54:26] [Init] Registered handler: Node.js
+[2025-09-15 11:54:26] [Init] Registered handler: Rust
+[2025-09-15 11:54:26] [Init] Registered handler: .NET
+[2025-09-15 11:54:26] [Init] Registered handler: Ruby
+[2025-09-15 11:54:26] [Init] Registered handler: PHP
+[2025-09-15 11:54:26] [Init] Registered handler: C++
+[2025-09-15 11:54:26] [Init] Registered handler: Swift
+[2025-09-15 11:54:34] [Init] Registered handler: Java
+[2025-09-15 11:54:34] [Init] Registered handler: Go
+[2025-09-15 11:54:34] [Init] Registered handler: Python
+[2025-09-15 11:54:34] [Init] Registered handler: Node.js
+[2025-09-15 11:54:34] [Init] Registered handler: Rust
+[2025-09-15 11:54:34] [Init] Registered handler: .NET
+[2025-09-15 11:54:34] [Init] Registered handler: Ruby
+[2025-09-15 11:54:34] [Init] Registered handler: PHP
+[2025-09-15 11:54:34] [Init] Registered handler: C++
+[2025-09-15 11:54:34] [Init] Registered handler: Swift
+[2025-09-15 11:54:40] [Init] Registered handler: Java
+[2025-09-15 11:54:40] [Init] Registered handler: Go
+[2025-09-15 11:54:40] [Init] Registered handler: Python
+[2025-09-15 11:54:40] [Init] Registered handler: Node.js
+[2025-09-15 11:54:40] [Init] Registered handler: Rust
+[2025-09-15 11:54:40] [Init] Registered handler: .NET
+[2025-09-15 11:54:40] [Init] Registered handler: Ruby
+[2025-09-15 11:54:40] [Init] Registered handler: PHP
+[2025-09-15 11:54:40] [Init] Registered handler: C++
+[2025-09-15 11:54:40] [Init] Registered handler: Swift
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-actuator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-cache has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-data-jpa has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-web has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-validation has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-thymeleaf has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-test has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency com.h2database:h2 has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency com.mysql:mysql-connector-j has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency org.postgresql:postgresql has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency javax.cache:cache-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency com.github.ben-manes.caffeine:caffeine has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-devtools has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-testcontainers has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-docker-compose has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency org.testcontainers:junit-jupiter has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency org.testcontainers:mysql has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency jakarta.xml.bind:jakarta.xml.bind-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency java.util:Locale has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency org.testcontainers:junit has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency org.testcontainers:DockerClientFactory has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency java.util:HashMap has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency java.util:TreeSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency jakarta.validation:constraints has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency jakarta.validation:Valid has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency java.util:LinkedHashSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency org.testcontainers:containers has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency java.util:LinkedList has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency org.apache.commons:commons-lang3 has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency java.io:IOException has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency org.assertj:core has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency org.springframework:spring-context has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Id has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Table has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency org.springframework:spring-web has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency java.util:Set has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:ManyToOne has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency java.text:ParseException has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency java.util:Map has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency java.util:stream has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:ManyToMany has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency org.junit.jupiter:junit-jupiter-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency java.util:Arrays has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency java.nio:file has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:GenerationType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Column has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency java.util:ArrayList has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:CascadeType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Entity has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency javax.cache:configuration has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency java.util:Comparator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:FetchType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:JoinColumn has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency jakarta.validation:ConstraintViolation has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency jakarta.validation:Validator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency org.mockito:mockito-core has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency java.util:Properties has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency java.util:List has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:OrderBy has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency java.util:Collection has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency java.util:HashSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency org.testcontainers:utility has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:MappedSuperclass has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:OneToMany has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency java.util:Optional has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency jakarta.annotation:Nonnull has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency java.time:LocalDate has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:JoinTable has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency jakarta.xml:bind has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency java.util:regex has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency java.io:Serializable has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:54:40] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:GeneratedValue has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:58:36] [Init] Registered handler: Java
+[2025-09-15 11:58:36] [Init] Registered handler: Go
+[2025-09-15 11:58:36] [Init] Registered handler: Python
+[2025-09-15 11:58:36] [Init] Registered handler: Node.js
+[2025-09-15 11:58:36] [Init] Registered handler: Rust
+[2025-09-15 11:58:36] [Init] Registered handler: .NET
+[2025-09-15 11:58:36] [Init] Registered handler: Ruby
+[2025-09-15 11:58:36] [Init] Registered handler: PHP
+[2025-09-15 11:58:36] [Init] Registered handler: C++
+[2025-09-15 11:58:36] [Init] Registered handler: Swift
+[2025-09-15 11:59:10] [Init] Registered handler: Java
+[2025-09-15 11:59:10] [Init] Registered handler: Go
+[2025-09-15 11:59:10] [Init] Registered handler: Python
+[2025-09-15 11:59:10] [Init] Registered handler: Node.js
+[2025-09-15 11:59:10] [Init] Registered handler: Rust
+[2025-09-15 11:59:10] [Init] Registered handler: .NET
+[2025-09-15 11:59:10] [Init] Registered handler: Ruby
+[2025-09-15 11:59:10] [Init] Registered handler: PHP
+[2025-09-15 11:59:10] [Init] Registered handler: C++
+[2025-09-15 11:59:10] [Init] Registered handler: Swift
+[2025-09-15 11:59:17] [Init] Registered handler: Java
+[2025-09-15 11:59:17] [Init] Registered handler: Go
+[2025-09-15 11:59:17] [Init] Registered handler: Python
+[2025-09-15 11:59:17] [Init] Registered handler: Node.js
+[2025-09-15 11:59:17] [Init] Registered handler: Rust
+[2025-09-15 11:59:17] [Init] Registered handler: .NET
+[2025-09-15 11:59:17] [Init] Registered handler: Ruby
+[2025-09-15 11:59:17] [Init] Registered handler: PHP
+[2025-09-15 11:59:17] [Init] Registered handler: C++
+[2025-09-15 11:59:17] [Init] Registered handler: Swift
+[2025-09-15 11:59:23] [Init] Registered handler: Java
+[2025-09-15 11:59:23] [Init] Registered handler: Go
+[2025-09-15 11:59:23] [Init] Registered handler: Python
+[2025-09-15 11:59:23] [Init] Registered handler: Node.js
+[2025-09-15 11:59:23] [Init] Registered handler: Rust
+[2025-09-15 11:59:23] [Init] Registered handler: .NET
+[2025-09-15 11:59:23] [Init] Registered handler: Ruby
+[2025-09-15 11:59:23] [Init] Registered handler: PHP
+[2025-09-15 11:59:23] [Init] Registered handler: C++
+[2025-09-15 11:59:23] [Init] Registered handler: Swift
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-actuator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-cache has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-data-jpa has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-web has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-validation has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-thymeleaf has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-test has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency com.h2database:h2 has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency com.mysql:mysql-connector-j has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency org.postgresql:postgresql has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency javax.cache:cache-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency com.github.ben-manes.caffeine:caffeine has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-devtools has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-testcontainers has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-docker-compose has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency org.testcontainers:junit-jupiter has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency org.testcontainers:mysql has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency jakarta.xml.bind:jakarta.xml.bind-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:JoinTable has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency org.apache.commons:commons-lang3 has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency java.util:HashMap has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Entity has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency java.util:Optional has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:ManyToMany has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency org.testcontainers:containers has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency org.testcontainers:DockerClientFactory has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency java.io:IOException has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency java.nio:file has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency java.io:Serializable has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency java.time:LocalDate has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency java.text:ParseException has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency org.testcontainers:junit has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency org.springframework:spring-context has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:GenerationType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency jakarta.validation:constraints has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency java.util:ArrayList has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency java.util:Comparator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency java.util:stream has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency org.testcontainers:utility has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency java.util:Arrays has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:23] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:GeneratedValue has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:MappedSuperclass has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency java.util:List has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency java.util:LinkedHashSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency java.util:Set has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency org.mockito:mockito-core has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:FetchType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:JoinColumn has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency org.springframework:spring-web has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency javax.cache:configuration has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency java.util:LinkedList has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency java.util:Properties has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency java.util:TreeSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:OneToMany has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency jakarta.validation:Valid has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency java.util:Collection has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:ManyToOne has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency java.util:HashSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency java.util:regex has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency org.assertj:core has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Id has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:CascadeType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:OrderBy has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency java.util:Map has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency jakarta.xml:bind has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency org.junit.jupiter:junit-jupiter-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency jakarta.validation:ConstraintViolation has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency jakarta.validation:Validator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Column has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Table has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency jakarta.annotation:Nonnull has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 11:59:24] [JavaHandler] WARNING: Gradle dependency java.util:Locale has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:03:30] [Init] Registered handler: Java
+[2025-09-15 12:03:30] [Init] Registered handler: Go
+[2025-09-15 12:03:30] [Init] Registered handler: Python
+[2025-09-15 12:03:30] [Init] Registered handler: Node.js
+[2025-09-15 12:03:30] [Init] Registered handler: Rust
+[2025-09-15 12:03:30] [Init] Registered handler: .NET
+[2025-09-15 12:03:30] [Init] Registered handler: Ruby
+[2025-09-15 12:03:30] [Init] Registered handler: PHP
+[2025-09-15 12:03:30] [Init] Registered handler: C++
+[2025-09-15 12:03:30] [Init] Registered handler: Swift
+[2025-09-15 12:20:44] [Init] Registered handler: Java
+[2025-09-15 12:20:44] [Init] Registered handler: Go
+[2025-09-15 12:20:44] [Init] Registered handler: Python
+[2025-09-15 12:20:44] [Init] Registered handler: Node.js
+[2025-09-15 12:20:44] [Init] Registered handler: Rust
+[2025-09-15 12:20:44] [Init] Registered handler: .NET
+[2025-09-15 12:20:44] [Init] Registered handler: Ruby
+[2025-09-15 12:20:44] [Init] Registered handler: PHP
+[2025-09-15 12:20:44] [Init] Registered handler: C++
+[2025-09-15 12:20:44] [Init] Registered handler: Swift
+[2025-09-15 12:20:50] [Init] Registered handler: Java
+[2025-09-15 12:20:50] [Init] Registered handler: Go
+[2025-09-15 12:20:50] [Init] Registered handler: Python
+[2025-09-15 12:20:50] [Init] Registered handler: Node.js
+[2025-09-15 12:20:50] [Init] Registered handler: Rust
+[2025-09-15 12:20:50] [Init] Registered handler: .NET
+[2025-09-15 12:20:50] [Init] Registered handler: Ruby
+[2025-09-15 12:20:50] [Init] Registered handler: PHP
+[2025-09-15 12:20:50] [Init] Registered handler: C++
+[2025-09-15 12:20:50] [Init] Registered handler: Swift
+[2025-09-15 12:20:55] [Init] Registered handler: Java
+[2025-09-15 12:20:55] [Init] Registered handler: Go
+[2025-09-15 12:20:55] [Init] Registered handler: Python
+[2025-09-15 12:20:55] [Init] Registered handler: Node.js
+[2025-09-15 12:20:55] [Init] Registered handler: Rust
+[2025-09-15 12:20:55] [Init] Registered handler: .NET
+[2025-09-15 12:20:55] [Init] Registered handler: Ruby
+[2025-09-15 12:20:55] [Init] Registered handler: PHP
+[2025-09-15 12:20:55] [Init] Registered handler: C++
+[2025-09-15 12:20:55] [Init] Registered handler: Swift
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-actuator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-cache has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-data-jpa has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-web has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-validation has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-thymeleaf has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter-test has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency com.h2database:h2 has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency com.mysql:mysql-connector-j has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency org.postgresql:postgresql has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency javax.cache:cache-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency com.github.ben-manes.caffeine:caffeine has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-devtools has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-testcontainers has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-docker-compose has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency org.testcontainers:junit-jupiter has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency org.testcontainers:mysql has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency jakarta.xml.bind:jakarta.xml.bind-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Id has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:JoinColumn has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency jakarta.annotation:Nonnull has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency java.util:Set has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency java.util:Map has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency jakarta.xml:bind has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency jakarta.validation:ConstraintViolation has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:MappedSuperclass has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:OneToMany has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:OrderBy has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency java.util:Locale has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency java.util:stream has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency java.util:HashMap has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency java.util:regex has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:CascadeType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Table has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency org.springframework:spring-web has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency java.time:LocalDate has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:ManyToOne has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency org.assertj:core has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency org.springframework.boot:spring-boot-starter has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency org.springframework:spring-context has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency java.io:Serializable has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency java.util:HashSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:ManyToMany has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency org.testcontainers:utility has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency java.util:LinkedList has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Column has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency java.util:ArrayList has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency java.util:List has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency jakarta.validation:Valid has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency java.util:LinkedHashSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency java.io:IOException has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency java.util:TreeSet has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:GenerationType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency jakarta.validation:constraints has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency java.util:Comparator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:JoinTable has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency org.testcontainers:containers has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency org.apache.commons:commons-lang3 has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:GeneratedValue has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:Entity has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency jakarta.persistence:FetchType has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency java.text:ParseException has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency javax.cache:configuration has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency org.junit.jupiter:junit-jupiter-api has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency org.testcontainers:junit has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency java.util:Arrays has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency java.util:Optional has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency java.util:Collection has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency org.testcontainers:DockerClientFactory has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency jakarta.validation:Validator has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency org.mockito:mockito-core has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency java.nio:file has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:20:55] [JavaHandler] WARNING: Gradle dependency java.util:Properties has unknown version; wrote placeholder 'REPLACE_WITH_VERSION'.
+[2025-09-15 12:24:50] [Init] Registered handler: Java
+[2025-09-15 12:24:50] [Init] Registered handler: Go
+[2025-09-15 12:24:50] [Init] Registered handler: Python
+[2025-09-15 12:24:50] [Init] Registered handler: Node.js
+[2025-09-15 12:24:50] [Init] Registered handler: Rust
+[2025-09-15 12:24:50] [Init] Registered handler: .NET
+[2025-09-15 12:24:50] [Init] Registered handler: Ruby
+[2025-09-15 12:24:50] [Init] Registered handler: PHP
+[2025-09-15 12:24:50] [Init] Registered handler: C++
+[2025-09-15 12:24:50] [Init] Registered handler: Swift
+[2025-09-15 13:55:29] [Init] Registered handler: Java
+[2025-09-15 13:55:29] [Init] Registered handler: Go
+[2025-09-15 13:55:29] [Init] Registered handler: Python
+[2025-09-15 13:55:29] [Init] Registered handler: Node.js
+[2025-09-15 13:55:29] [Init] Registered handler: Rust
+[2025-09-15 13:55:29] [Init] Registered handler: .NET
+[2025-09-15 13:55:29] [Init] Registered handler: Ruby
+[2025-09-15 13:55:29] [Init] Registered handler: PHP
+[2025-09-15 13:55:29] [Init] Registered handler: C++
+[2025-09-15 13:55:29] [Init] Registered handler: Swift
+[2025-09-15 14:04:05] [Init] Registered handler: Java
+[2025-09-15 14:04:05] [Init] Registered handler: Go
+[2025-09-15 14:04:05] [Init] Registered handler: Python
+[2025-09-15 14:04:05] [Init] Registered handler: Node.js
+[2025-09-15 14:04:05] [Init] Registered handler: Rust
+[2025-09-15 14:04:05] [Init] Registered handler: .NET
+[2025-09-15 14:04:05] [Init] Registered handler: Ruby
+[2025-09-15 14:04:05] [Init] Registered handler: PHP
+[2025-09-15 14:04:05] [Init] Registered handler: C++
+[2025-09-15 14:04:05] [Init] Registered handler: Swift
+[2025-09-15 16:44:58] [Init] Registered handler: Java
+[2025-09-15 16:44:58] [Init] Registered handler: Go
+[2025-09-15 16:44:58] [Init] Registered handler: Python
+[2025-09-15 16:44:58] [Init] Registered handler: Node.js
+[2025-09-15 16:44:58] [Init] Registered handler: Rust
+[2025-09-15 16:44:58] [Init] Registered handler: .NET
+[2025-09-15 16:44:58] [Init] Registered handler: Ruby
+[2025-09-15 16:44:58] [Init] Registered handler: PHP
+[2025-09-15 16:44:58] [Init] Registered handler: C++
+[2025-09-15 16:44:58] [Init] Registered handler: Swift
+[2025-09-15 16:50:54] [Init] Registered handler: Java
+[2025-09-15 16:50:54] [Init] Registered handler: Go
+[2025-09-15 16:50:54] [Init] Registered handler: Python
+[2025-09-15 16:50:54] [Init] Registered handler: Node.js
+[2025-09-15 16:50:54] [Init] Registered handler: Rust
+[2025-09-15 16:50:54] [Init] Registered handler: .NET
+[2025-09-15 16:50:54] [Init] Registered handler: Ruby
+[2025-09-15 16:50:54] [Init] Registered handler: PHP
+[2025-09-15 16:50:54] [Init] Registered handler: C++
+[2025-09-15 16:50:54] [Init] Registered handler: Swift
+[2025-09-15 16:54:50] [Init] Registered handler: Java
+[2025-09-15 16:54:50] [Init] Registered handler: Go
+[2025-09-15 16:54:50] [Init] Registered handler: Python
+[2025-09-15 16:54:50] [Init] Registered handler: Node.js
+[2025-09-15 16:54:50] [Init] Registered handler: Rust
+[2025-09-15 16:54:50] [Init] Registered handler: .NET
+[2025-09-15 16:54:50] [Init] Registered handler: Ruby
+[2025-09-15 16:54:50] [Init] Registered handler: PHP
+[2025-09-15 16:54:50] [Init] Registered handler: C++
+[2025-09-15 16:54:50] [Init] Registered handler: Swift
+[2025-09-15 16:58:39] [Init] Registered handler: Java
+[2025-09-15 16:58:39] [Init] Registered handler: Go
+[2025-09-15 16:58:40] [Init] Registered handler: Python
+[2025-09-15 16:58:40] [Init] Registered handler: Node.js
+[2025-09-15 16:58:40] [Init] Registered handler: Rust
+[2025-09-15 16:58:40] [Init] Registered handler: .NET
+[2025-09-15 16:58:40] [Init] Registered handler: Ruby
+[2025-09-15 16:58:40] [Init] Registered handler: PHP
+[2025-09-15 16:58:40] [Init] Registered handler: C++
+[2025-09-15 16:58:40] [Init] Registered handler: Swift
+[2025-09-15 17:03:28] [Init] Registered handler: Java
+[2025-09-15 17:03:28] [Init] Registered handler: Go
+[2025-09-15 17:03:29] [Init] Registered handler: Python
+[2025-09-15 17:03:29] [Init] Registered handler: Node.js
+[2025-09-15 17:03:29] [Init] Registered handler: Rust
+[2025-09-15 17:03:29] [Init] Registered handler: .NET
+[2025-09-15 17:03:29] [Init] Registered handler: Ruby
+[2025-09-15 17:03:29] [Init] Registered handler: PHP
+[2025-09-15 17:03:29] [Init] Registered handler: C++
+[2025-09-15 17:03:29] [Init] Registered handler: Swift
+[2025-09-15 17:08:28] [Init] Registered handler: Java
+[2025-09-15 17:08:28] [Init] Registered handler: Go
+[2025-09-15 17:08:28] [Init] Registered handler: Python
+[2025-09-15 17:08:28] [Init] Registered handler: Node.js
+[2025-09-15 17:08:28] [Init] Registered handler: Rust
+[2025-09-15 17:08:28] [Init] Registered handler: .NET
+[2025-09-15 17:08:28] [Init] Registered handler: Ruby
+[2025-09-15 17:08:28] [Init] Registered handler: PHP
+[2025-09-15 17:08:28] [Init] Registered handler: C++
+[2025-09-15 17:08:28] [Init] Registered handler: Swift
+[2025-09-15 17:13:07] [Init] Registered handler: Java
+[2025-09-15 17:13:07] [Init] Registered handler: Go
+[2025-09-15 17:13:07] [Init] Registered handler: Python
+[2025-09-15 17:13:07] [Init] Registered handler: Node.js
+[2025-09-15 17:13:07] [Init] Registered handler: Rust
+[2025-09-15 17:13:07] [Init] Registered handler: .NET
+[2025-09-15 17:13:07] [Init] Registered handler: Ruby
+[2025-09-15 17:13:07] [Init] Registered handler: PHP
+[2025-09-15 17:13:07] [Init] Registered handler: C++
+[2025-09-15 17:13:07] [Init] Registered handler: Swift
+[2025-09-15 17:43:47] [Init] Registered handler: Java
+[2025-09-15 17:43:47] [Init] Registered handler: Go
+[2025-09-15 17:43:47] [Init] Registered handler: Python
+[2025-09-15 17:43:47] [Init] Registered handler: Node.js
+[2025-09-15 17:43:47] [Init] Registered handler: Rust
+[2025-09-15 17:43:47] [Init] Registered handler: .NET
+[2025-09-15 17:43:47] [Init] Registered handler: Ruby
+[2025-09-15 17:43:47] [Init] Registered handler: PHP
+[2025-09-15 17:43:47] [Init] Registered handler: C++
+[2025-09-15 17:43:47] [Init] Registered handler: Swift
+[2025-09-15 17:51:49] [Init] Registered handler: Java
+[2025-09-15 17:51:49] [Init] Registered handler: Go
+[2025-09-15 17:51:49] [Init] Registered handler: Python
+[2025-09-15 17:51:49] [Init] Registered handler: Node.js
+[2025-09-15 17:51:49] [Init] Registered handler: Rust
+[2025-09-15 17:51:49] [Init] Registered handler: .NET
+[2025-09-15 17:51:49] [Init] Registered handler: Ruby
+[2025-09-15 17:51:49] [Init] Registered handler: PHP
+[2025-09-15 17:51:49] [Init] Registered handler: C++
+[2025-09-15 17:51:49] [Init] Registered handler: Swift
+[2025-09-15 17:56:47] [Init] Registered handler: Java
+[2025-09-15 17:56:47] [Init] Registered handler: Go
+[2025-09-15 17:56:47] [Init] Registered handler: Python
+[2025-09-15 17:56:47] [Init] Registered handler: Node.js
+[2025-09-15 17:56:47] [Init] Registered handler: Rust
+[2025-09-15 17:56:47] [Init] Registered handler: .NET
+[2025-09-15 17:56:47] [Init] Registered handler: Ruby
+[2025-09-15 17:56:47] [Init] Registered handler: PHP
+[2025-09-15 17:56:47] [Init] Registered handler: C++
+[2025-09-15 17:56:47] [Init] Registered handler: Swift
+[2025-09-15 17:59:23] [Init] Registered handler: Java
+[2025-09-15 17:59:23] [Init] Registered handler: Go
+[2025-09-15 17:59:23] [Init] Registered handler: Python
+[2025-09-15 17:59:23] [Init] Registered handler: Node.js
+[2025-09-15 17:59:23] [Init] Registered handler: Rust
+[2025-09-15 17:59:23] [Init] Registered handler: .NET
+[2025-09-15 17:59:23] [Init] Registered handler: Ruby
+[2025-09-15 17:59:23] [Init] Registered handler: PHP
+[2025-09-15 17:59:23] [Init] Registered handler: C++
+[2025-09-15 17:59:23] [Init] Registered handler: Swift
+[2025-09-15 18:02:06] [Init] Registered handler: Java
+[2025-09-15 18:02:06] [Init] Registered handler: Go
+[2025-09-15 18:02:06] [Init] Registered handler: Python
+[2025-09-15 18:02:06] [Init] Registered handler: Node.js
+[2025-09-15 18:02:06] [Init] Registered handler: Rust
+[2025-09-15 18:02:06] [Init] Registered handler: .NET
+[2025-09-15 18:02:06] [Init] Registered handler: Ruby
+[2025-09-15 18:02:06] [Init] Registered handler: PHP
+[2025-09-15 18:02:06] [Init] Registered handler: C++
+[2025-09-15 18:02:06] [Init] Registered handler: Swift
+[2025-09-15 18:20:43] [Init] Registered handler: Java
+[2025-09-15 18:20:43] [Init] Registered handler: Go
+[2025-09-15 18:20:43] [Init] Registered handler: Python
+[2025-09-15 18:20:43] [Init] Registered handler: Node.js
+[2025-09-15 18:20:43] [Init] Registered handler: Rust
+[2025-09-15 18:20:43] [Init] Registered handler: .NET
+[2025-09-15 18:20:43] [Init] Registered handler: Ruby
+[2025-09-15 18:20:43] [Init] Registered handler: PHP
+[2025-09-15 18:20:43] [Init] Registered handler: C++
+[2025-09-15 18:20:43] [Init] Registered handler: Swift
+[2025-09-15 18:27:44] [Init] Registered handler: Java
+[2025-09-15 18:27:44] [Init] Registered handler: Go
+[2025-09-15 18:27:44] [Init] Registered handler: Python
+[2025-09-15 18:27:44] [Init] Registered handler: Node.js
+[2025-09-15 18:27:44] [Init] Registered handler: Rust
+[2025-09-15 18:27:44] [Init] Registered handler: .NET
+[2025-09-15 18:27:44] [Init] Registered handler: Ruby
+[2025-09-15 18:27:44] [Init] Registered handler: PHP
+[2025-09-15 18:27:44] [Init] Registered handler: C++
+[2025-09-15 18:27:44] [Init] Registered handler: Swift
+[2025-09-15 18:53:24] [Init] Registered handler: Java
+[2025-09-15 18:53:24] [Init] Registered handler: Go
+[2025-09-15 18:53:24] [Init] Registered handler: Python
+[2025-09-15 18:53:24] [Init] Registered handler: Node.js
+[2025-09-15 18:53:24] [Init] Registered handler: Rust
+[2025-09-15 18:53:24] [Init] Registered handler: .NET
+[2025-09-15 18:53:24] [Init] Registered handler: Ruby
+[2025-09-15 18:53:24] [Init] Registered handler: PHP
+[2025-09-15 18:53:24] [Init] Registered handler: C++
+[2025-09-15 18:53:24] [Init] Registered handler: Swift
+[2025-09-15 18:53:30] [Init] Registered handler: Java
+[2025-09-15 18:53:30] [Init] Registered handler: Go
+[2025-09-15 18:53:30] [Init] Registered handler: Python
+[2025-09-15 18:53:30] [Init] Registered handler: Node.js
+[2025-09-15 18:53:30] [Init] Registered handler: Rust
+[2025-09-15 18:53:30] [Init] Registered handler: .NET
+[2025-09-15 18:53:30] [Init] Registered handler: Ruby
+[2025-09-15 18:53:30] [Init] Registered handler: PHP
+[2025-09-15 18:53:30] [Init] Registered handler: C++
+[2025-09-15 18:53:30] [Init] Registered handler: Swift
+[2025-09-15 19:00:41] [Init] Registered handler: Java
+[2025-09-15 19:00:41] [Init] Registered handler: Go
+[2025-09-15 19:00:41] [Init] Registered handler: Python
+[2025-09-15 19:00:41] [Init] Registered handler: Node.js
+[2025-09-15 19:00:41] [Init] Registered handler: Rust
+[2025-09-15 19:00:41] [Init] Registered handler: .NET
+[2025-09-15 19:00:41] [Init] Registered handler: Ruby
+[2025-09-15 19:00:41] [Init] Registered handler: PHP
+[2025-09-15 19:00:41] [Init] Registered handler: C++
+[2025-09-15 19:00:41] [Init] Registered handler: Swift
+[2025-09-15 19:05:35] [Init] Registered handler: Java
+[2025-09-15 19:05:35] [Init] Registered handler: Go
+[2025-09-15 19:05:35] [Init] Registered handler: Python
+[2025-09-15 19:05:35] [Init] Registered handler: Node.js
+[2025-09-15 19:05:35] [Init] Registered handler: Rust
+[2025-09-15 19:05:35] [Init] Registered handler: .NET
+[2025-09-15 19:05:35] [Init] Registered handler: Ruby
+[2025-09-15 19:05:35] [Init] Registered handler: PHP
+[2025-09-15 19:05:35] [Init] Registered handler: C++
+[2025-09-15 19:05:35] [Init] Registered handler: Swift
+[2025-09-15 19:09:04] [Init] Registered handler: Java
+[2025-09-15 19:09:04] [Init] Registered handler: Go
+[2025-09-15 19:09:04] [Init] Registered handler: Python
+[2025-09-15 19:09:04] [Init] Registered handler: Node.js
+[2025-09-15 19:09:04] [Init] Registered handler: Rust
+[2025-09-15 19:09:04] [Init] Registered handler: .NET
+[2025-09-15 19:09:04] [Init] Registered handler: Ruby
+[2025-09-15 19:09:04] [Init] Registered handler: PHP
+[2025-09-15 19:09:04] [Init] Registered handler: C++
+[2025-09-15 19:09:04] [Init] Registered handler: Swift
+[2025-09-15 19:17:14] [Init] Registered handler: Java
+[2025-09-15 19:17:14] [Init] Registered handler: Go
+[2025-09-15 19:17:14] [Init] Registered handler: Python
+[2025-09-15 19:17:14] [Init] Registered handler: Node.js
+[2025-09-15 19:17:14] [Init] Registered handler: Rust
+[2025-09-15 19:17:14] [Init] Registered handler: .NET
+[2025-09-15 19:17:14] [Init] Registered handler: Ruby
+[2025-09-15 19:17:14] [Init] Registered handler: PHP
+[2025-09-15 19:17:14] [Init] Registered handler: C++
+[2025-09-15 19:17:14] [Init] Registered handler: Swift
+[2025-09-15 19:32:14] [Init] Registered handler: Java
+[2025-09-15 19:32:14] [Init] Registered handler: Go
+[2025-09-15 19:32:14] [Init] Registered handler: Python
+[2025-09-15 19:32:14] [Init] Registered handler: Node.js
+[2025-09-15 19:32:14] [Init] Registered handler: Rust
+[2025-09-15 19:32:14] [Init] Registered handler: .NET
+[2025-09-15 19:32:14] [Init] Registered handler: Ruby
+[2025-09-15 19:32:14] [Init] Registered handler: PHP
+[2025-09-15 19:32:14] [Init] Registered handler: C++
+[2025-09-15 19:32:14] [Init] Registered handler: Swift
+[2025-09-15 19:53:17] [Init] Registered handler: Java
+[2025-09-15 19:53:17] [Init] Registered handler: Go
+[2025-09-15 19:53:17] [Init] Registered handler: Python
+[2025-09-15 19:53:17] [Init] Registered handler: Node.js
+[2025-09-15 19:53:17] [Init] Registered handler: Rust
+[2025-09-15 19:53:17] [Init] Registered handler: .NET
+[2025-09-15 19:53:17] [Init] Registered handler: Ruby
+[2025-09-15 19:53:17] [Init] Registered handler: PHP
+[2025-09-15 19:53:17] [Init] Registered handler: C++
+[2025-09-15 19:53:17] [Init] Registered handler: Swift
+[2025-09-15 20:15:56] [Init] Registered handler: Java
+[2025-09-15 20:15:56] [Init] Registered handler: Go
+[2025-09-15 20:15:56] [Init] Registered handler: Python
+[2025-09-15 20:15:56] [Init] Registered handler: Node.js
+[2025-09-15 20:15:56] [Init] Registered handler: Rust
+[2025-09-15 20:15:56] [Init] Registered handler: .NET
+[2025-09-15 20:15:56] [Init] Registered handler: Ruby
+[2025-09-15 20:15:56] [Init] Registered handler: PHP
+[2025-09-15 20:15:56] [Init] Registered handler: C++
+[2025-09-15 20:15:56] [Init] Registered handler: Swift
+[2025-09-15 20:31:16] [Init] Registered handler: Java
+[2025-09-15 20:31:16] [Init] Registered handler: Go
+[2025-09-15 20:31:16] [Init] Registered handler: Python
+[2025-09-15 20:31:16] [Init] Registered handler: Node.js
+[2025-09-15 20:31:16] [Init] Registered handler: Rust
+[2025-09-15 20:31:16] [Init] Registered handler: .NET
+[2025-09-15 20:31:16] [Init] Registered handler: Ruby
+[2025-09-15 20:31:16] [Init] Registered handler: PHP
+[2025-09-15 20:31:16] [Init] Registered handler: C++
+[2025-09-15 20:31:16] [Init] Registered handler: Swift
+[2025-09-15 20:40:41] [Init] Registered handler: Java
+[2025-09-15 20:40:41] [Init] Registered handler: Go
+[2025-09-15 20:40:41] [Init] Registered handler: Python
+[2025-09-15 20:40:41] [Init] Registered handler: Node.js
+[2025-09-15 20:40:41] [Init] Registered handler: Rust
+[2025-09-15 20:40:41] [Init] Registered handler: .NET
+[2025-09-15 20:40:41] [Init] Registered handler: Ruby
+[2025-09-15 20:40:41] [Init] Registered handler: PHP
+[2025-09-15 20:40:41] [Init] Registered handler: C++
+[2025-09-15 20:40:41] [Init] Registered handler: Swift
+[2025-09-15 20:46:28] [Init] Registered handler: Java
+[2025-09-15 20:46:28] [Init] Registered handler: Go
+[2025-09-15 20:46:28] [Init] Registered handler: Python
+[2025-09-15 20:46:28] [Init] Registered handler: Node.js
+[2025-09-15 20:46:28] [Init] Registered handler: Rust
+[2025-09-15 20:46:28] [Init] Registered handler: .NET
+[2025-09-15 20:46:28] [Init] Registered handler: Ruby
+[2025-09-15 20:46:28] [Init] Registered handler: PHP
+[2025-09-15 20:46:28] [Init] Registered handler: C++
+[2025-09-15 20:46:28] [Init] Registered handler: Swift
+[2025-09-15 21:26:24] [Init] Registered handler: Java
+[2025-09-15 21:26:24] [Init] Registered handler: Go
+[2025-09-15 21:26:24] [Init] Registered handler: Python
+[2025-09-15 21:26:24] [Init] Registered handler: Node.js
+[2025-09-15 21:26:24] [Init] Registered handler: Rust
+[2025-09-15 21:26:24] [Init] Registered handler: .NET
+[2025-09-15 21:26:24] [Init] Registered handler: Ruby
+[2025-09-15 21:26:24] [Init] Registered handler: PHP
+[2025-09-15 21:26:24] [Init] Registered handler: C++
+[2025-09-15 21:26:24] [Init] Registered handler: Swift
+[2025-09-15 21:37:10] [Init] Registered handler: Java
+[2025-09-15 21:37:10] [Init] Registered handler: Go
+[2025-09-15 21:37:10] [Init] Registered handler: Python
+[2025-09-15 21:37:10] [Init] Registered handler: Node.js
+[2025-09-15 21:37:10] [Init] Registered handler: Rust
+[2025-09-15 21:37:10] [Init] Registered handler: .NET
+[2025-09-15 21:37:10] [Init] Registered handler: Ruby
+[2025-09-15 21:37:10] [Init] Registered handler: PHP
+[2025-09-15 21:37:10] [Init] Registered handler: C++
+[2025-09-15 21:37:10] [Init] Registered handler: Swift
+[2025-09-15 21:42:37] [Init] Registered handler: Java
+[2025-09-15 21:42:37] [Init] Registered handler: Go
+[2025-09-15 21:42:37] [Init] Registered handler: Python
+[2025-09-15 21:42:37] [Init] Registered handler: Node.js
+[2025-09-15 21:42:37] [Init] Registered handler: Rust
+[2025-09-15 21:42:37] [Init] Registered handler: .NET
+[2025-09-15 21:42:37] [Init] Registered handler: Ruby
+[2025-09-15 21:42:37] [Init] Registered handler: PHP
+[2025-09-15 21:42:37] [Init] Registered handler: C++
+[2025-09-15 21:42:37] [Init] Registered handler: Swift
+[2025-09-16 09:47:56] [Init] Registered handler: Java
+[2025-09-16 09:47:56] [Init] Registered handler: Go
+[2025-09-16 09:47:56] [Init] Registered handler: Python
+[2025-09-16 09:47:56] [Init] Registered handler: Node.js
+[2025-09-16 09:47:56] [Init] Registered handler: Rust
+[2025-09-16 09:47:56] [Init] Registered handler: .NET
+[2025-09-16 09:47:56] [Init] Registered handler: Ruby
+[2025-09-16 09:47:56] [Init] Registered handler: PHP
+[2025-09-16 09:47:56] [Init] Registered handler: C++
+[2025-09-16 09:47:56] [Init] Registered handler: Swift
+[2025-09-16 10:20:08] [Init] Registered handler: Java
+[2025-09-16 10:20:08] [Init] Registered handler: Go
+[2025-09-16 10:20:08] [Init] Registered handler: Python
+[2025-09-16 10:20:08] [Init] Registered handler: Node.js
+[2025-09-16 10:20:08] [Init] Registered handler: Rust
+[2025-09-16 10:20:08] [Init] Registered handler: .NET
+[2025-09-16 10:20:08] [Init] Registered handler: Ruby
+[2025-09-16 10:20:08] [Init] Registered handler: PHP
+[2025-09-16 10:20:08] [Init] Registered handler: C++
+[2025-09-16 10:20:08] [Init] Registered handler: Swift
+[2025-09-16 10:40:32] [Init] Registered handler: Java
+[2025-09-16 10:40:32] [Init] Registered handler: Go
+[2025-09-16 10:40:32] [Init] Registered handler: Python
+[2025-09-16 10:40:32] [Init] Registered handler: Node.js
+[2025-09-16 10:40:32] [Init] Registered handler: Rust
+[2025-09-16 10:40:32] [Init] Registered handler: .NET
+[2025-09-16 10:40:32] [Init] Registered handler: Ruby
+[2025-09-16 10:40:32] [Init] Registered handler: PHP
+[2025-09-16 10:40:32] [Init] Registered handler: C++
+[2025-09-16 10:40:32] [Init] Registered handler: Swift
+[2025-09-16 10:45:24] [Init] Registered handler: Java
+[2025-09-16 10:45:24] [Init] Registered handler: Go
+[2025-09-16 10:45:24] [Init] Registered handler: Python
+[2025-09-16 10:45:24] [Init] Registered handler: Node.js
+[2025-09-16 10:45:24] [Init] Registered handler: Rust
+[2025-09-16 10:45:24] [Init] Registered handler: .NET
+[2025-09-16 10:45:24] [Init] Registered handler: Ruby
+[2025-09-16 10:45:24] [Init] Registered handler: PHP
+[2025-09-16 10:45:24] [Init] Registered handler: C++
+[2025-09-16 10:45:24] [Init] Registered handler: Swift
+[2025-09-16 10:48:21] [Init] Registered handler: Java
+[2025-09-16 10:48:21] [Init] Registered handler: Go
+[2025-09-16 10:48:21] [Init] Registered handler: Python
+[2025-09-16 10:48:21] [Init] Registered handler: Node.js
+[2025-09-16 10:48:21] [Init] Registered handler: Rust
+[2025-09-16 10:48:21] [Init] Registered handler: .NET
+[2025-09-16 10:48:21] [Init] Registered handler: Ruby
+[2025-09-16 10:48:21] [Init] Registered handler: PHP
+[2025-09-16 10:48:21] [Init] Registered handler: C++
+[2025-09-16 10:48:21] [Init] Registered handler: Swift
+[2025-09-16 17:04:47] [Init] Registered handler: Java
+[2025-09-16 17:04:47] [Init] Registered handler: Go
+[2025-09-16 17:04:47] [Init] Registered handler: Python
+[2025-09-16 17:04:47] [Init] Registered handler: Node.js
+[2025-09-16 17:04:47] [Init] Registered handler: Rust
+[2025-09-16 17:04:47] [Init] Registered handler: .NET
+[2025-09-16 17:04:47] [Init] Registered handler: Ruby
+[2025-09-16 17:04:47] [Init] Registered handler: PHP
+[2025-09-16 17:04:47] [Init] Registered handler: C++
+[2025-09-16 17:04:47] [Init] Registered handler: Swift
+[2025-09-16 17:12:41] [Init] Registered handler: Java
+[2025-09-16 17:12:41] [Init] Registered handler: Go
+[2025-09-16 17:12:41] [Init] Registered handler: Python
+[2025-09-16 17:12:41] [Init] Registered handler: Node.js
+[2025-09-16 17:12:41] [Init] Registered handler: Rust
+[2025-09-16 17:12:41] [Init] Registered handler: .NET
+[2025-09-16 17:12:41] [Init] Registered handler: Ruby
+[2025-09-16 17:12:41] [Init] Registered handler: PHP
+[2025-09-16 17:12:41] [Init] Registered handler: C++
+[2025-09-16 17:12:41] [Init] Registered handler: Swift
+[2025-09-16 17:20:51] [Init] Registered handler: Java
+[2025-09-16 17:20:51] [Init] Registered handler: Go
+[2025-09-16 17:20:51] [Init] Registered handler: Python
+[2025-09-16 17:20:51] [Init] Registered handler: Node.js
+[2025-09-16 17:20:51] [Init] Registered handler: Rust
+[2025-09-16 17:20:51] [Init] Registered handler: .NET
+[2025-09-16 17:20:51] [Init] Registered handler: Ruby
+[2025-09-16 17:20:51] [Init] Registered handler: PHP
+[2025-09-16 17:20:51] [Init] Registered handler: C++
+[2025-09-16 17:20:51] [Init] Registered handler: Swift
+[2025-09-16 17:22:49] [Init] Registered handler: Java
+[2025-09-16 17:22:49] [Init] Registered handler: Go
+[2025-09-16 17:22:49] [Init] Registered handler: Python
+[2025-09-16 17:22:49] [Init] Registered handler: Node.js
+[2025-09-16 17:22:49] [Init] Registered handler: Rust
+[2025-09-16 17:22:49] [Init] Registered handler: .NET
+[2025-09-16 17:22:49] [Init] Registered handler: Ruby
+[2025-09-16 17:22:49] [Init] Registered handler: PHP
+[2025-09-16 17:22:49] [Init] Registered handler: C++
+[2025-09-16 17:22:49] [Init] Registered handler: Swift
+[2025-09-16 17:26:27] [Init] Registered handler: Java
+[2025-09-16 17:26:27] [Init] Registered handler: Go
+[2025-09-16 17:26:27] [Init] Registered handler: Python
+[2025-09-16 17:26:27] [Init] Registered handler: Node.js
+[2025-09-16 17:26:27] [Init] Registered handler: Rust
+[2025-09-16 17:26:27] [Init] Registered handler: .NET
+[2025-09-16 17:26:27] [Init] Registered handler: Ruby
+[2025-09-16 17:26:27] [Init] Registered handler: PHP
+[2025-09-16 17:26:27] [Init] Registered handler: C++
+[2025-09-16 17:26:27] [Init] Registered handler: Swift
+[2025-09-16 17:35:42] [Init] Registered handler: Java
+[2025-09-16 17:35:42] [Init] Registered handler: Go
+[2025-09-16 17:35:42] [Init] Registered handler: Python
+[2025-09-16 17:35:42] [Init] Registered handler: Node.js
+[2025-09-16 17:35:42] [Init] Registered handler: Rust
+[2025-09-16 17:35:42] [Init] Registered handler: .NET
+[2025-09-16 17:35:42] [Init] Registered handler: Ruby
+[2025-09-16 17:35:42] [Init] Registered handler: PHP
+[2025-09-16 17:35:42] [Init] Registered handler: C++
+[2025-09-16 17:35:42] [Init] Registered handler: Swift
+[2025-09-16 17:41:30] [Init] Registered handler: Java
+[2025-09-16 17:41:30] [Init] Registered handler: Go
+[2025-09-16 17:41:30] [Init] Registered handler: Python
+[2025-09-16 17:41:30] [Init] Registered handler: Node.js
+[2025-09-16 17:41:30] [Init] Registered handler: Rust
+[2025-09-16 17:41:30] [Init] Registered handler: .NET
+[2025-09-16 17:41:30] [Init] Registered handler: Ruby
+[2025-09-16 17:41:30] [Init] Registered handler: PHP
+[2025-09-16 17:41:30] [Init] Registered handler: C++
+[2025-09-16 17:41:30] [Init] Registered handler: Swift
+[2025-09-16 17:45:10] [Init] Registered handler: Java
+[2025-09-16 17:45:10] [Init] Registered handler: Go
+[2025-09-16 17:45:10] [Init] Registered handler: Python
+[2025-09-16 17:45:10] [Init] Registered handler: Node.js
+[2025-09-16 17:45:10] [Init] Registered handler: Rust
+[2025-09-16 17:45:10] [Init] Registered handler: .NET
+[2025-09-16 17:45:10] [Init] Registered handler: Ruby
+[2025-09-16 17:45:10] [Init] Registered handler: PHP
+[2025-09-16 17:45:10] [Init] Registered handler: C++
+[2025-09-16 17:45:10] [Init] Registered handler: Swift
+[2025-09-16 17:49:59] [Init] Registered handler: Java
+[2025-09-16 17:49:59] [Init] Registered handler: Go
+[2025-09-16 17:49:59] [Init] Registered handler: Python
+[2025-09-16 17:49:59] [Init] Registered handler: Node.js
+[2025-09-16 17:49:59] [Init] Registered handler: Rust
+[2025-09-16 17:49:59] [Init] Registered handler: .NET
+[2025-09-16 17:49:59] [Init] Registered handler: Ruby
+[2025-09-16 17:49:59] [Init] Registered handler: PHP
+[2025-09-16 17:49:59] [Init] Registered handler: C++
+[2025-09-16 17:49:59] [Init] Registered handler: Swift
+[2025-09-16 18:07:03] [Init] Registered handler: Java
+[2025-09-16 18:07:03] [Init] Registered handler: Go
+[2025-09-16 18:07:03] [Init] Registered handler: Python
+[2025-09-16 18:07:03] [Init] Registered handler: Node.js
+[2025-09-16 18:07:03] [Init] Registered handler: Rust
+[2025-09-16 18:07:03] [Init] Registered handler: .NET
+[2025-09-16 18:07:03] [Init] Registered handler: Ruby
+[2025-09-16 18:07:03] [Init] Registered handler: PHP
+[2025-09-16 18:07:03] [Init] Registered handler: C++
+[2025-09-16 18:07:03] [Init] Registered handler: Swift
+[2025-09-16 18:19:15] [Init] Registered handler: Java
+[2025-09-16 18:19:15] [Init] Registered handler: Go
+[2025-09-16 18:19:15] [Init] Registered handler: Python
+[2025-09-16 18:19:15] [Init] Registered handler: Node.js
+[2025-09-16 18:19:15] [Init] Registered handler: Rust
+[2025-09-16 18:19:15] [Init] Registered handler: .NET
+[2025-09-16 18:19:15] [Init] Registered handler: Ruby
+[2025-09-16 18:19:15] [Init] Registered handler: PHP
+[2025-09-16 18:19:15] [Init] Registered handler: C++
+[2025-09-16 18:19:15] [Init] Registered handler: Swift

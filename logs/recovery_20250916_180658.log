@@ -1,0 +1,29 @@
+INFO: 2025/09/16 18:06:58 logger.go:46: Keeping temp clone directories in: C:\Users\prash\AppData\Local\Temp\ort_repos_3155455039
+INFO: 2025/09/16 18:07:01 logger.go:46: Repo cloned to C:\Users\prash\AppData\Local\Temp\ort_repos_3155455039\cobra_1758026218
+INFO: 2025/09/16 18:07:01 logger.go:46: Processing project: C:\Users\prash\AppData\Local\Temp\ort_repos_3155455039\cobra_1758026218
+INFO: 2025/09/16 18:07:01 logger.go:46: Running Syft in C:\Users\prash\AppData\Local\Temp\ort_repos_3155455039\cobra_1758026218
+INFO: 2025/09/16 18:07:01 logger.go:46: Running: syft [scan C:\Users\prash\AppData\Local\Temp\ort_repos_3155455039\cobra_1758026218 -o json=C:\Users\prash\AppData\Local\Temp\ort_repos_3155455039\cobra_1758026218\syft.json]
+INFO: 2025/09/16 18:07:03 logger.go:46: Checking handler: Java
+INFO: 2025/09/16 18:07:03 logger.go:46: Handler Java: not detected in project
+INFO: 2025/09/16 18:07:03 logger.go:46: Checking handler: Go
+INFO: 2025/09/16 18:07:03 logger.go:46: Handler Go: detected. Scanning...
+INFO: 2025/09/16 18:07:04 logger.go:46: Handler Go: no dependencies found.
+INFO: 2025/09/16 18:07:04 logger.go:46: Checking handler: Python
+INFO: 2025/09/16 18:07:04 logger.go:46: Handler Python: not detected in project
+INFO: 2025/09/16 18:07:04 logger.go:46: Checking handler: Node.js
+INFO: 2025/09/16 18:07:04 logger.go:46: Handler Node.js: not detected in project
+INFO: 2025/09/16 18:07:04 logger.go:46: Checking handler: Rust
+INFO: 2025/09/16 18:07:04 logger.go:46: Handler Rust: not detected in project
+INFO: 2025/09/16 18:07:04 logger.go:46: Checking handler: .NET
+INFO: 2025/09/16 18:07:04 logger.go:46: Handler .NET: not detected in project
+INFO: 2025/09/16 18:07:04 logger.go:46: Checking handler: Ruby
+INFO: 2025/09/16 18:07:04 logger.go:46: Handler Ruby: not detected in project
+INFO: 2025/09/16 18:07:04 logger.go:46: Checking handler: PHP
+INFO: 2025/09/16 18:07:04 logger.go:46: Handler PHP: not detected in project
+INFO: 2025/09/16 18:07:04 logger.go:46: Checking handler: C++
+INFO: 2025/09/16 18:07:04 logger.go:46: Handler C++: detected. Scanning...
+INFO: 2025/09/16 18:07:04 logger.go:46: Handler C++: generating recovery file (deps: 1)...
+INFO: 2025/09/16 18:07:04 logger.go:46: Checking handler: Swift
+INFO: 2025/09/16 18:07:04 logger.go:46: Handler Swift: not detected in project
+INFO: 2025/09/16 18:07:04 logger.go:46: Cleaning up C:\Users\prash\AppData\Local\Temp\ort_repos_3155455039\cobra_1758026218\syft.json after processing
+INFO: 2025/09/16 18:07:04 logger.go:46: Total elapsed time: 5.7668076s
