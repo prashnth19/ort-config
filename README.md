@@ -110,9 +110,9 @@ It bridges the gap between **Syft** (SBOM generator) and **OSS Review Toolkit (O
 
 ```sh
 git clone <repo-url>
-cd ort-recovery
+cd ort-config
 go mod download
-go build -o ort-recovery
+go build -o ort-config
 ```
 
 ---
@@ -179,10 +179,10 @@ jobs:
         run: |
           curl -sSfL https://raw.githubusercontent.com/anchore/syft/main/install.sh | sh -s -- -b /usr/local/bin
           
-      - name: Run Recovery
+      - name: ORT Config
         run: |
           go build
-          ./ort-recovery -repoFile configs/repos.json -backup recovery_files -v
+          ./ort-config -repoFile configs/repos.json -backup recovery_files -v
           
       - name: Upload Results
         uses: actions/upload-artifact@v3
@@ -206,14 +206,14 @@ pipeline {
             steps {
                 sh '''
                     curl -sSfL https://raw.githubusercontent.com/anchore/syft/main/install.sh | sh -s -- -b /usr/local/bin
-                    go build -o ort-recovery
+                    go build -o ort-config
                 '''
             }
         }
         
         stage('Run Recovery') {
             steps {
-                sh './ort-recovery -repoFile configs/repos.json -backup recovery_files -v'
+                sh './ort-config -repoFile configs/repos.json -backup recovery_files -v'
             }
         }
         
